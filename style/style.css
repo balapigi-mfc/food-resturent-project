@@ -19,6 +19,7 @@
     border-radius: 8px;
     background: rgb(82, 195, 3);
     border: none;
+    cursor: pointer;
 }
 #hero{
 
@@ -103,6 +104,11 @@
 
 .card-container{
     margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: Work Sans;
+
 }
 .card{
     max-width: 250px;
@@ -125,3 +131,5 @@
     background: rgba(82, 195, 3, 0.15);
 
 }
+
+/* hello */
